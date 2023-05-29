@@ -9,8 +9,8 @@ Porém o foco inicial deste projeto será uma versão mais simples, com apenas u
 Esta função já traria maior independência dos deficientes visuais neste ambiente interno, pois como já citado, muitos memorizam os corredores e suas categorias de produtos.
 Com isso, é proposto neste trabalho a elaboração de um projeto de visão computacional para auxiliar nesta tarefa, a ideia inicial do projeto consiste de uma rede neural para realizar classificação de produtos típicos de supermercado, após a classificação, um dispositivo deve informar qual é o produto de forma sonora, caso o andamento do projeto seja como desejado, também informar o preço e validade do produto.
 
-![Git flow](https://github.com/Vinicius-ufsc/donna_ai/blob/main/Imagens/fluxograma3.png?raw=true)
+![Git flow](https://github.com/Vinicius-ufsc/projetos_2/blob/main/Imagens/fluxograma3.png?raw=true)
 
-![Git flow](https://github.com/Vinicius-ufsc/donna_ai/blob/main/Imagens/fluxograma1.png?raw=true)
+![Git flow](https://github.com/Vinicius-ufsc/projetos_2/blob/main/Imagens/fluxograma1.png?raw=true)
 
 <div align="center">2021.2</div> 
