@@ -1,6 +1,6 @@
 # Reconhecimento de produtos para auxílio a deficientes visuais em supermercados
 
-### projetos 2
+### Projeto em Eletrônica II
 
 - Objetivo: Identificação de itens de supermercado para auxílio à deficientes visuais.
 
